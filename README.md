@@ -1,5 +1,5 @@
 # SCUT_SimpleDocument
-This is an unofficial $\Latex$ template modify from professor Zeng's CUMCM template and the undergraduate student course project template (Microsoft Word version). One can use this template to write experiment report, do course project, etc. 
+This is an unofficial $\LaTeX$ template, adapted from Professor Zeng's CUMCM template and the South China University of Technology's undergraduate course project template (Microsoft Word version). It can be used for writing experiment reports, completing course projects, and more. 
 
 
 coming soon
