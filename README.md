@@ -41,3 +41,23 @@ git clone https://github.com/BuggingCat/SCUT_SimpleDocument.git
 2. 点击 document.tex (https://github.com/BuggingCat/SCUT_SimpleDocument/blob/main/document.tex) 文件，修改该文件，可以编译出同名的.pdf文件
 
 该模板的样式如 document.pdf (https://github.com/BuggingCat/SCUT_SimpleDocument/blob/main/document.pdf) 所示
+
+------
+# Tips
+
+1. $\LaTeX$ Greek letters 希腊字母 (https://blog.csdn.net/weixin_45152202/article/details/111873526)
+   ![image](https://github.com/user-attachments/assets/123e74fa-5c2e-4a91-bf84-eff7f9457571)
+2. 字号
+   (https://github.com/BuggingCat/SCUT_SimpleDocument/blob/main/latex%E5%AD%97%E4%BD%93%E4%B8%8E%E8%A1%8C%E8%B7%9D.md)
+3. English version: 
+   Paste those comments before `\begin{document}`
+   ```
+   \setmainfont{Times New Roman} % set main font
+   \renewcommand{\contentsname}{Content} % change it into English
+   \renewcommand{\refname}{References}
+   \renewcommand{\figurename}{Figure}
+   \renewcommand{\tablename}{Table}
+   ```
+4. Continue...
+
+
