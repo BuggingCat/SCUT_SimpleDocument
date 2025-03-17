@@ -3,5 +3,16 @@ This is an unofficial $\LaTeX$ template, adapted from Professor Zeng's CUMCM tem
 
 Attention! This is a little bit different from the official one. Ask your teacher before you use it!
 
+## Download the project
 
-coming soon
+```
+git clone https://github.com/BuggingCat/SCUT_SimpleDocument.git
+```
+
+## Use the project
+
+1. Download TexStudio
+2. Click .tex file to modify the document
+
+The sample is document.pdf
+
